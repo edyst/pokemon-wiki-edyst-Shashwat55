@@ -207,11 +207,11 @@
         align-items: center;
     
     }
-    .cols i {
+    .col i {
         color: white;
     }
     
-    .bon {
+    .container {
         margin: 0;
         padding: 50px;
         background-color: white;
@@ -219,14 +219,14 @@
     
     }
     
-    .pokemon {
+    .pokimg {
         border-radius: 50%;
         height: 100px;
         width: 100px;
         flex-shrink: 1;
     }
     
-    .container {
+    .pokemon {
         height: 80px;
         width: 170px;
     }
@@ -263,7 +263,7 @@
         width: 150px;
     }
     
-    .sels {
+    .click {
         background: rgba(0,0,0,0);
         border: 1px white solid;
         color: white;
@@ -327,7 +327,7 @@
     
     }
     
-    .amimg {
+    .gamimg {
         width: 150px;
         height: 200px;
     }
@@ -337,7 +337,7 @@
         padding-right: 50px;
     }
     
-    .rows {
+    .boxs {
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
@@ -346,7 +346,7 @@
         padding: 0 100px;
     }
     
-    .designimage {
+    .desimg {
         border-radius: 50%;
         height: 150px;
         width: 150px;
